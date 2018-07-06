@@ -1,5 +1,6 @@
 const style = {
   root: {
+    height: '100%',
     backgroundColor: 'purple',
     fontFamily: 'avenir',
     color: 'white',
@@ -14,7 +15,7 @@ const style = {
     padding: '16px',
     borderRadius: '4px',
     fontSize: '1.25em',
-    border: '2px solid white'
+    border: '2px solid rgba(0,0,0,.20)'
   }
 }
 
